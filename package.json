@@ -1,0 +1,22 @@
+{
+    "name": "gulp-demo",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "start": "gulp buildStyles"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "devDependencies": {
+        "gulp": "^4.0.2",
+        "gulp-autoprefixer": "^8.0.0",
+        "gulp-sass": "^5.0.0",
+        "gulp-sourcemaps": "^3.0.0",
+        "sass": "^1.45.1"
+    },
+    "dependencies": {
+        "include-media": "^1.4.10"
+    }
+}

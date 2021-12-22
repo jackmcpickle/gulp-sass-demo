@@ -1,0 +1,7 @@
+@use 'includes' as *;
+
+@include media('>sm') {
+    body {
+        background-color: $bg-colour;
+    }
+}
